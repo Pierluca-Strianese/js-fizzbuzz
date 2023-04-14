@@ -1,0 +1,24 @@
+body {
+    background-color: #193A4A;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.cell {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 5rem;
+    height: 5rem;
+    margin: 0.5rem;
+    background-color: #3F87AE;
+}
