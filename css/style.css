@@ -22,3 +22,15 @@ h1 {
     margin: 0.5rem;
     background-color: #3F87AE;
 }
+
+.green {
+    background-color: #62D3A4;
+}
+
+.yellow {
+    background-color: #F8D377;
+}
+
+.red {
+    background-color: #DE5471;
+}
